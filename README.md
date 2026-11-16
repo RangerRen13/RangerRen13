@@ -1,6 +1,10 @@
-# RangerRen13
+# About Me
 
-I speak fluent English.
+I love to code.
+I am currently learning the C programming language.
 
-I am learning to program in C.
-I like systems engineering and programming.
+I like systems and applications programming.
+
+I am against A.I. 100%.
+
+I am always looking for ways to improve.
